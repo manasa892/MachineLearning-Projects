@@ -4,7 +4,10 @@ Classification with a Software Defects Dataset problem
 
 # Table of Contents
 
-General Information 
++ General Info
++ Technologies Used
++ Conclusions
++ Acknowledgements
 
 hhsgasgdjasdhshasgdgajdgjh
 
