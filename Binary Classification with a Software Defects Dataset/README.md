@@ -6,8 +6,8 @@ Classification with a Software Defects Dataset problem
 
 + [General Info](#general-information)
 + [Technologies Used](#technologies-used)
-+ Conclusions
-+ Acknowledgements
++ [Conclusions](#conclusions)
++ [Acknowledgements](#acknowledgements)
 
 hhsgasgdjasdhshasgdgajdgjh
 
@@ -26,5 +26,13 @@ lsdkaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 + Pandas
 + Numpy
+
+# Conclusions
+
+jlkjjjjjjjjjjjjjjjjjjjj
+
+# Acknowledgements
+
+SDOKJSJDAJLDJALJDSLKJJ
 
 
