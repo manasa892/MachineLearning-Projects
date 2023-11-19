@@ -9,30 +9,23 @@ Classification with a Software Defects Dataset problem
 + [Conclusions](#conclusions)
 + [Acknowledgements](#acknowledgements)
 
-hhsgasgdjasdhshasgdgajdgjh
-
 
 # General Information 
 
-Lalalaaaaaaaaaaaaaaaaaaaaaa
-agoribabaaajai
-jjkasdddddddddddddddddddddddddddddddd
-sakhhhlljslajdlakkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
-lsjlajklllllllllllllllllllllllllllllllllllllllllllllllllll
-sldjaklddddddddddddddddddddddddddddddddddddddddddddddddddddddsa
-lsdkaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+
+# Conclusions
+
 
 # Technologies Used
 
 + Pandas
 + Numpy
++ Matplotlib
++ Seaborn
++ Sklearn
++ statsmodels
 
-# Conclusions
 
-jlkjjjjjjjjjjjjjjjjjjjj
-
-# Acknowledgements
-
-SDOKJSJDAJLDJALJDSLKJJ
 
 
