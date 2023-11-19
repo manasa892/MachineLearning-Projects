@@ -4,8 +4,8 @@ Classification with a Software Defects Dataset problem
 
 # Table of Contents
 
-+ General Info
-+ Technologies Used
++ [Link to Section One](#general-information)
++ [Link to Section Two](#technologies-used)
 + Conclusions
 + Acknowledgements
 
@@ -14,4 +14,12 @@ hhsgasgdjasdhshasgdgajdgjh
 
 # General Information 
 
-Lalalalaaaaaa
+Lalalaaaaaaaaaaaaaaaaaaaaaa
+agoribabaaajai
+
+# Technologies Used
+
++ Pandas
++ Numpy
+
+
