@@ -1,1 +1,30 @@
+# Binary Prediction of Smoker Status using Bio-Signals 
+Binary Prediction of Smoker Status using Bio-Signals
+
+
+# Table of Contents
+
++ [General Info](#general-information)
++ [Technologies Used](#technologies-used)
++ [Conclusions](#conclusions)
++ [Acknowledgements](#acknowledgements)
+
+
+# General Information 
+
+
+
+# Conclusions
+
+
+# Technologies Used
+
++ Pandas
++ Numpy
++ Matplotlib
++ Seaborn
++ Sklearn
++ statsmodels
+
+
 
