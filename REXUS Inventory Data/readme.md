@@ -16,7 +16,9 @@ The primary goal is to optimize the management and utilization of government rea
 # Conclusions
 
 ## Linear Regression  
-- **Model Score in Test data:** 0.89
+
+```python
+- Model Score in Test data: 0.89
 
 
 # Technologies Used
