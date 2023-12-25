@@ -19,7 +19,16 @@ The primary goal is to optimize the management and utilization of government rea
 
 ```python
 - Model Score in Test data: 0.89
-=========================================================================================================================
+
+## Decision Tree Classifier
+
+```python
+- Model Score in Test data: 0.94
+
+## Random Forest Classifier
+
+```python
+- Model Score in Test data: 0.94
 
 
 # Technologies Used
