@@ -1,5 +1,5 @@
-# UBC Ovarian Cancer Subtype Classification and Outlier Detection
-UBC Ovarian Cancer Subtype Classification and Outlier Detection
+# Indicators of Anxiety or Depression based on reported Frequency
+Indicators of Anxiety or Depression based on reported Frequency
 
 
 # Table of Contents
