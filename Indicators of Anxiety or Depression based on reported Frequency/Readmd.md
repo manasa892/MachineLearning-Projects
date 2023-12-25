@@ -41,7 +41,7 @@ The aim is to enhance decision-making in managing mental wellness indicators dur
 ```
 - Final R-squared on test data: 0.99
 - Final Mean Squared Error on test data: 0.005831663355806985
-## 
+```
 
 # Technologies Used
 
