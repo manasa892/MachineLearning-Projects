@@ -1,6 +1,5 @@
 # REXUS Inventory Data
-REXUS Inventory Data
-
+The primary goal is to optimize the management and utilization of government real estate assets to ensure cost-effectiveness, operational efficiency, and compliance with regulatory requirements.
 
 # Table of Contents
 
@@ -16,7 +15,9 @@ REXUS Inventory Data
 
 # Conclusions
 
-## Linear Regression
+## Linear Regression  
+- **Model Score in Test data:** 0.89
+
 
 # Technologies Used
 
