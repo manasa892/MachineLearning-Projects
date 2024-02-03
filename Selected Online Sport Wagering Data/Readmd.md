@@ -12,7 +12,9 @@ The Goal is to Optimize financial operations in Connecticut's online sports wage
 
 # General Information 
 
+Exploring the 'Selected Online Sport Wagering Data' dataset, this project delves into the intricacies of online sports wagering operations in Connecticut. Analyzing monthly payments, federal excise tax, and promotional deductions, the dataset offers insights into the financial dynamics of the industry. Addressing reclassifications and adjustments, the study ensures accurate reporting of Gross Gaming Revenue, ultimately contributing to a comprehensive understanding of the economic aspects of online sports wagering in the state.
 
+Optimize financial operations in Connecticut's online sports wagering industry by ensuring accurate monthly settlements, adhering to federal regulations, and implementing promotional deductions effectively. 
 
 # Conclusions
 
@@ -47,6 +49,9 @@ MSE: 18589841404.887302
 MAE: 106480.97305007343
 R-squared: 0.994485872508762
 ```
+## Results
+
+With the implementation of advanced Ridge regression models, our online sports wagering industry experiences heightened financial precision, streamlining monthly settlements. The optimized Ridge model ensures accurate calculations, reducing errors and supporting compliance. This enhances financial efficiency, contributing to a robust and reliable online sports wagering ecosystem, fortifying the industry's financial stability and compliance.
 
 # Technologies Used
 
