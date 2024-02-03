@@ -37,6 +37,10 @@ The primary goal is to optimize the management and utilization of government rea
 
 ## Results 
 
++ Decision Tree and Random Forest have Similar Accuracy.
++ Decision Tree has a slightly better balance between precision and recall for Class 1.
++ Decision Tree may be considered the better model.
+  
 This enhances the efficiency of government property asset management, reducing decision-making time by 20%, and contributing to strategic and cost-effective real estate operations.
 
 # Technologies Used
