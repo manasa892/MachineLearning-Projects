@@ -29,25 +29,25 @@ Optimize financial operations in Connecticut's online sports wagering industry b
 ## Decision Tree Regressor
 
 ```python
-MSE: 37043677838.5
-MAE: 140616.875
-R-squared: 0.9890120868760002
+- MSE: 37043677838.5
+- MAE: 140616.875
+- R-squared: 0.9890120868760002
 ```
 
 ## Random Forest Regressor
 
 ```
-MSE: 36118567454.376526
-MAE: 147263.8268749999
-R-squared: 0.9892864935527663
+- MSE: 36118567454.376526
+- MAE: 147263.8268749999
+- R-squared: 0.9892864935527663
 ```
 
 ## Gradient Boosting Regressor
 
 ```
-MSE: 18589841404.887302
-MAE: 106480.97305007343
-R-squared: 0.994485872508762
+- MSE: 18589841404.887302
+- MAE: 106480.97305007343
+- R-squared: 0.994485872508762
 ```
 ## Results
 
