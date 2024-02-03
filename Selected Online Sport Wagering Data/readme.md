@@ -49,6 +49,8 @@ Optimize financial operations in Connecticut's online sports wagering industry b
 - MAE: 106480.97305007343
 - R-squared: 0.994485872508762
 ```
++ Gradient Boosting Regressor is considered as the best model.
+
 ## Results
 
 With the implementation of advanced Ridge regression models, our online sports wagering industry experiences heightened financial precision, streamlining monthly settlements. The optimized Ridge model ensures accurate calculations, reducing errors and supporting compliance. This enhances financial efficiency, contributing to a robust and reliable online sports wagering ecosystem, fortifying the industry's financial stability and compliance.
