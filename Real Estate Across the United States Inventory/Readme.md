@@ -1,4 +1,4 @@
-# REXUS Inventory Data
+# Real Estate Across the United States Inventory Data
 The primary goal is to optimize the management and utilization of government real estate assets to ensure cost-effectiveness, operational efficiency, and compliance with regulatory requirements.
 
 # Table of Contents
