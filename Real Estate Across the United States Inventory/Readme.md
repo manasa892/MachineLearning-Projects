@@ -35,6 +35,10 @@ The primary goal is to optimize the management and utilization of government rea
 - Model Score in Test data: 0.94
 ```
 
+## Results 
+
+This enhances the efficiency of government property asset management, reducing decision-making time by 20%, and contributing to strategic and cost-effective real estate operations.
+
 # Technologies Used
 
 + Pandas
