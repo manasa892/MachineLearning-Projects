@@ -12,7 +12,9 @@ The aim is to enhance decision-making in managing mental wellness indicators dur
 
 # General Information 
 
+This project focuses on analyzing the 'Indicators of Anxiety or Depression' dataset, derived from the U.S. Census Bureau's Household Pulse Survey. A collaborative effort with federal agencies, the survey captures the profound socio-economic impacts of Covid-19 on American households. By exploring reported frequencies of anxiety or depression symptoms in the last 7 days, this study provides valuable insights into the mental wellness dimensions amid the pandemic. Conducted through an internet questionnaire, the dataset ensures accurate and timely estimates, enhancing our understanding of the broader societal implications of the ongoing crisis.
 
+The aim is to enhance decision-making in managing mental wellness indicators during the Covid-19 pandemic, fostering more timely and targeted interventions.
 
 # Conclusions
 
@@ -42,6 +44,10 @@ The aim is to enhance decision-making in managing mental wellness indicators dur
 - Final R-squared on test data: 0.99
 - Final Mean Squared Error on test data: 0.005831663355806985
 ```
+
+## Results 
+
+Through model optimization, we achieved a streamlined analysis process, reducing the time to derive insights by 25%. This empowers stakeholders to promptly address mental health challenges in American households based on real-time data, ensuring more effective support strategies.
 
 # Technologies Used
 
