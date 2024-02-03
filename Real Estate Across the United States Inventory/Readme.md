@@ -35,7 +35,7 @@ The primary goal is to optimize the management and utilization of government rea
 - Model Score in Test data: 0.94
 ```
 
-## Results 
+## Outcomes
 
 + Decision Tree and Random Forest have Similar Accuracy.
 + Decision Tree has a slightly better balance between precision and recall for Class 1.
